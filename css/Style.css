@@ -1,0 +1,242 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "playfair Display", serif;
+	font-weight: 400;
+	color: #626262;
+}
+header{
+	padding: 40px 0;	
+}
+.wrapper{
+	width: 90%;
+	margin: 0 auto;	
+	overflow: hidden;
+}
+.logo{
+	width: 10%;
+	float: left;	
+}
+.logo a{}
+.logo a img{
+	width: 100%;
+}
+.menu{
+	width: 70%;
+	float: right;
+}
+.menu ul{
+	float: right;
+	margin: 0;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+} 
+.menu ul li a{
+	margin: 0 40px;
+	padding: 3px 2px;
+	display: inline-block;	
+	color: #626262;	
+	text-transform: uppercase;
+	text-decoration: none;
+	border: 1px solid transparent;	
+}
+.menu ul li:last-child a{
+	margin-right:0;
+}
+.menu ul li a:hover{
+	border-bottom: 1px solid #626262;
+}
+banner{}
+.b_img{}
+.b_img img{
+	width: 100%;
+}
+.perfect {
+	padding: 70px 0;
+}
+
+.wrapper2 {
+	overflow: hidden;
+	width: 80%;
+	margin: 0 auto;		
+	}
+
+.p_content {
+}
+
+.c_lite {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300 ;
+	color: #626262;
+	text-transform: uppercase;
+}
+
+.c_h1 {
+	margin: 20px 0 30px 0;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.c_content {
+	margin: 0;
+	line-height: 25px;
+
+}
+.mb_45{
+	margin-bottom: 45px;
+}
+.blog1 {
+	padding: 70px 0;
+}
+
+.blog_content {
+}
+
+.s_blog {
+	width: 47%;	
+	float: left;
+}
+.s_blog:nth-child(even){
+	margin-left: 6%;
+}
+.blog_img{
+	margin-bottom: 25px;
+}
+.blog_img img{
+	width: 100%;
+}
+.merg{
+	margin-bottom: 60px;
+}
+.news {
+	background-color: #f0f0f0;
+	padding: 70px 0;
+}
+.signup {
+	text-align: center;
+}
+
+.c_h1 {
+	color: #333333;
+	margin-bottom: 70px;
+}
+.s_form{
+	position: relative;
+	width: 400px;	
+	margin: 0 auto;
+}
+.s_form input{
+	font-family: "playfair display", serif;
+	font-size: 14px;
+	color: #626262;
+	width: 345px;
+	height: 45px;
+	border: none;
+	border-bottom: 1px solid #000 ;
+	background-color: transparent;
+	padding-left: 5px;
+	padding-right: 45px;
+}
+.s_form input:focus{
+	outline: 0;
+}
+.s_form button{
+	position: absolute;
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	top: 15px;
+	right: 0;
+
+}
+	
+.s_form button:focus{
+	outline: 0;
+}
+
+.s_form input button img{}
+.button{
+	width: 100%;
+	margin: 0 auto;
+	display: inline-block;
+	text-align: center;
+	padding: 85px 0;
+}
+
+.button a{
+	padding: 15px 40px;
+	display: inline-block;
+	border: 1px solid #000;
+	color: #626262;
+	text-decoration: none;
+	font-size: 20px;
+	transition: 
+	transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+}
+.button a:hover{
+	background: #626262;
+	color: #fff;
+}
+footer{
+	background-color: #f0f0f0;	
+}
+.formal{	
+	width: 50%;
+	float: left;
+}
+.formal ul{
+	margin: 0;
+	padding: 0;
+}
+.formal ul li{
+	list-style: none;
+	float: left;
+}
+.formal ul li a{
+	margin: 0 15px;
+	text-decoration: none;
+	display: inline-block;	
+	color: #000;
+}
+.formal ul li:first-child a{
+	margin-left: 0;
+}
+.social{	
+	width: 48%;
+	float: right;
+}
+.social ul{
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+.social ul li{
+	list-style: none;
+	float: left;
+}
+.social ul li a{
+	margin: 0 15px;
+	text-decoration: none;
+	display: inline-block;
+	color: #000;
+}
+.social ul li:last-child a{
+	margin-right: 0;
+
+}
+.new{
+	padding: 50px 0;
+}
+	
+
+
+
+
+
+
+
